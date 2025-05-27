@@ -36,7 +36,6 @@
       </ol>
     </section>
 
-    <!-- Main content -->
     <section class="content">
       <?php
         if(isset($_SESSION['error'])){
