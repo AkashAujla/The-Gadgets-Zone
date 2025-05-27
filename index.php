@@ -65,7 +65,7 @@
 		                  <span class="fa fa-angle-right"></span>
 		                </a>
 		           
-					<br><br><br><br><br><br>
+					<br><br><br><br><br>
 					
 				 </div>
 	
