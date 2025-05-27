@@ -9,7 +9,7 @@
 	  <div class="content-wrapper">
 	    <div class="container">
 
-	      <!-- Main content -->
+	    
 	      <section class="content">
 	        <div class="row">
 	        	<div class="col-sm-15">
